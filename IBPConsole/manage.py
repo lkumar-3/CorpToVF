@@ -3,6 +3,12 @@
 import os
 import sys
 
+# manage.py (top, after imports)
+import sys
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+sys.path.append(str(BASE_DIR / "src"))
 
 def main():
     """Run administrative tasks."""

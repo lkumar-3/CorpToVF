@@ -2,4 +2,5 @@ from django.apps import AppConfig
 
 
 class AppKiplingConfig(AppConfig):
-    name = 'app_kipling'
+    default_auto_field = 'django.db.models.BigAutoField'
+    name = 'apps.app_kipling'  # if src is on PYTHONPATH
