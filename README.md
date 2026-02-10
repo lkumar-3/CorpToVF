@@ -1,4 +1,4 @@
-# BFF OptiPrice v2 - Django Backend for Frontend
+# Test with BFF OptiPrice v3 - Django Backend for Frontend
 
 A comprehensive Django-based Backend for Frontend (BFF) application specifically designed for the OptiPrice system. Built with enterprise-grade patterns for scalability and maintainability.
 
@@ -18,6 +18,12 @@ A comprehensive Django-based Backend for Frontend (BFF) application specifically
 ### Automated SSO Setup (Recommended)
 
 Get everything running with complete SAML2 SSO in one command:
+
+```bash
+# Complete automated setup
+pip install locally and run the server
+
+```
 
 ```bash
 # Complete automated setup
