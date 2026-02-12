@@ -3,8 +3,7 @@
 import os
 import sys
 
-# manage.py (top, after imports)
-import sys
+
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
