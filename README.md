@@ -1,4 +1,4 @@
-# Test with BFF OptiPrice v3 - Django Backend for Frontend
+# Test with BFF OptiPrice v1 - Django Backend for Frontend
 
 A comprehensive Django-based Backend for Frontend (BFF) application specifically designed for the OptiPrice system. Built with enterprise-grade patterns for scalability and maintainability.
 
